@@ -1,0 +1,7 @@
+$ cd /myproject/build
+$ cmake -DCMAKE_BUILD_TYPE=Debug ..
+$ make
+$ sudo make install
+$ cmake _DCMAKE_BUILD_TYPE=Release ..
+$ make
+$ sudo make install
